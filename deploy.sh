@@ -9,10 +9,11 @@ npm run build
 # 进入生成的文件夹
 cd docs/.vuepress/dist
 
-git add .
+git init
+git add -A
 git commit -m 'deploy'
 
 # 发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:Indomite/Indomite.github.io.git master
+git push -f https://github.com/indomite/indomite.github.io.git master
 
 cd -
