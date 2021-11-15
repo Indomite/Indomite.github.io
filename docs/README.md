@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: /logo.png
 heroText: Indomite
 tagline: 永远年轻，永远热泪盈眶
 actionText: 关于我 →
