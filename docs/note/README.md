@@ -4,6 +4,7 @@
 * [HTML](./HTML/)
 * [CSS](./CSS/)
 * [Javascript](./Javascript/)
+* [TypeScript](./TypeScript/)
 * [vue](./Vue/)
 * [node](./Node/)
 * [小程序](./小程序/)
@@ -14,4 +15,3 @@
 * [前端安全](./前端安全/)
 * [前端工程化](./前端工程化/)
 * [设计模式](./设计模式/)
-* [知识大纲](./知识大纲/)
